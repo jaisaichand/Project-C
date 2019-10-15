@@ -8,5 +8,5 @@ float re; long int ki;
 char iot[6];
 scanf("%d %c %s %f %ld", &i, &g, iot, &re, &ki);
 printf("Printing al the variables  %d %c %s %f %ld", i, g, iot, re, ki);
-printf("this is test line");
+printf("==================================");
 }
